@@ -22,3 +22,7 @@ greenlet==3.1.1
 setuptools
 wheel
 build
+
+dlib-bin
+face-recognition
+opencv-python
